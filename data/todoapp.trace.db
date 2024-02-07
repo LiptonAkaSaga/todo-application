@@ -1,8 +1,0 @@
-2024-02-04 21:47:05.095885+01:00 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "[*]ID COMPLETE CREATED_DATE DESCRIPTION MODIFIED_DATE"; oczekiwano "INSERT"
-Syntax error in SQL statement "[*]ID COMPLETE CREATED_DATE DESCRIPTION MODIFIED_DATE"; expected "INSERT"; SQL statement:
-ID COMPLETE CREATED_DATE DESCRIPTION MODIFIED_DATE [42001-224]
-2024-02-04 21:47:53.058900+01:00 jdbc[13]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "[*]*Select ID"
-Syntax error in SQL statement "[*]*Select ID"; SQL statement:
-*Select ID [42000-224]
